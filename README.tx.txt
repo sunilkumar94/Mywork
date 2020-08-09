@@ -1,0 +1,3 @@
+The following xml files present here are the templates from the Apache Nifi tool.
+1. RESTful_Webservice.xml : It is webservice created based on the REST architecture using Nifi for performing the CURD operation on the JSON files.
+2. CSVtoJson.xml : It the file converation template where the CSV file data is updated with the particular value and coverted to JSON format for easy accessibity on the web.
